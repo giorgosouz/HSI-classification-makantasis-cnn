@@ -2,4 +2,4 @@
 HSI classification repo
 
 
-Hyperspectral image classification code, SVM-RF-MAKANTASIS CNN
+Hyperspectral image classification code,MAKANTASIS CNN
